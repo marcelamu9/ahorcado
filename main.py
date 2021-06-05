@@ -1,5 +1,8 @@
+from src.ahorcado import inicio_del_juego
+
+
 def run():
-    pass
+    inicio_del_juego()
 
 
 if __name__ == '__main__':
